@@ -10,6 +10,8 @@ This is a set of terms and meanings that can helpful to know about some concepts
 
 [G](#g)
 
+[O](#o)
+
 [T](#t)
 
 ### C
@@ -26,6 +28,10 @@ DSL means a language that the goal is to work in a specific domain or a set in a
 ### G
 #### Graphical user interface (GUI)
 It's a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators.
+
+### O
+#### Orthogonality
+When changing one thing doesn't affect the others.
 
 ### T
 #### Tech-savvy
