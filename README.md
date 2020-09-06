@@ -3,6 +3,7 @@
 This is a set of terms and meanings that can helpful to know about some concepts that are in software development world. Feel free to help improve this document.
 
 ## Indexes
+[A](#a)
 
 [C](#c)
 
@@ -13,6 +14,10 @@ This is a set of terms and meanings that can helpful to know about some concepts
 [O](#o)
 
 [T](#t)
+
+### A
+#### Arity
+The arity of a function describes the number of arguments that the function takes.
 
 ### C
 #### Cutting edge
