@@ -16,6 +16,9 @@ This is a set of terms and meanings that can helpful to know about some concepts
 [T](#t)
 
 ### A
+#### Actor
+An actor is an independent virtual processor with its own local state, its receives messages and handle them though mailboxes. It helpes to solve concurrency problems.
+
 #### Arity
 The arity of a function describes the number of arguments that the function takes.
 
