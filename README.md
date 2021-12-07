@@ -1,6 +1,6 @@
 # Glossary of software development
 
-This is a set of terms and meanings that can helpful to know about some concepts that are in software development world. Feel free to help improve this document.
+This is a set of terms and meanings that can be helpful to know about some concepts that are in software development world. Feel free to help improve this document.
 
 ## Indexes
 [A](#a)
